@@ -13,4 +13,4 @@ Welcome to the Advanced side of HTML in the ALU Web Development Repository. In t
 
 Let's get started!
 
-<img alt="Web Development HTML" src="https://www.pexels.com/photo/close-up-photo-of-programming-of-codes-546819/">
+<img alt="Web Development HTML" src="https://i.postimg.cc/VND4dWCK/html-and-css.jpg">
